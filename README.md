@@ -3,10 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vitalii, a full-time full-stack software engineer.</div>  
-  
-
-- 🔭 I’m currently working on [Upwork](https://www.upwork.com/freelancers/~01a3efc6d8ee31ba40)  
+### <div align="center">I'm a full-time full-stack software engineer.</div>  
   
 
 - ⚡ Top Skills: Django, React, RESTful API, AWS  
